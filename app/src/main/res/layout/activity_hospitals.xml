@@ -10,9 +10,12 @@
     <TextView
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
-
-
+        android:text="Choose Your Preferred Hospital"
+        android:textSize="20dp"
+        android:textColor="@color/colorPrimary"
+        android:textAlignment="center"
         />
+
 
 
 </android.widget.LinearLayout>
