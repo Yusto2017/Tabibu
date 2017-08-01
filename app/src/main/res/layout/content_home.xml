@@ -8,4 +8,13 @@
     tools:context="com.example.swee.tabibu.Home"
     tools:showIn="@layout/app_bar_home">
 
+    <ImageView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:src="@drawable/home"
+
+
+
+        />
+
 </android.support.constraint.ConstraintLayout>

@@ -43,6 +43,9 @@ public class Doctors extends AppCompatActivity{
                 TextView txt=(TextView) arg1;
                 System.out.println(txt.getText().toString());
 
+
+
+
             }
         }
         );
